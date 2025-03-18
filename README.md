@@ -6,7 +6,7 @@ I have a degree in Finance and Accounting with a strong interest in IT, particul
 
 ### Tools
 
-- Jira - Issue tracking and project management tool for developers
+- Jira
 - MS Excel
 - TestLink
 - XRay
