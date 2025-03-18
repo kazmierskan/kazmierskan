@@ -34,11 +34,9 @@ I’m a final-year Finance and Accounting student. Interested in IT, especially 
 - https://testsigma.com
 - https://testerzy.pl
 
-### My test case examples
+### Test Cases & Bug Reports
 
 - [DemoBlaze](https://github.com/kazmierskan/kazmierskan/tree/main/DemoBlaze)
-- 
-### My bug reports
 
 ### My projects
 
